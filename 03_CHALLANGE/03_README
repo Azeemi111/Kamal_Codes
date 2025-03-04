@@ -1,0 +1,11 @@
+Start
+print("Explain to the user what the code is for and executing")
+Storing the number in a variable called number
+
+print("Adding extra prints to space out the code")
+
+if the number is divisible by two and leaves no remainder
+print("The number is even")
+
+else
+print("The number you have inputted is odd")

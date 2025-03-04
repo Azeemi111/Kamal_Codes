@@ -1,3 +1,10 @@
+# -----------------------------------------------------------------------------
+# Name:        Week Suggestions
+# Purpose:     Providing fun activities to complete throughout the week based off the day.
+# Author:      Kamal Azeemi
+# Created:     3-Feb-2025
+# Updated:     4-Mar-2025
+# -----------------------------------------------------------------------------
 print("This program will help you by providing activities to complete based on the day of the week!")
 day = input("Enter the day of the week: ")
 print()

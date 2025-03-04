@@ -1,11 +1,16 @@
+#-----------------------------------------------------------------------------
+# Name:        Student Grading System
+# Purpose:     To provide ease in determining the grade you achieved based off percentage.
+# Author:      Kamal Azeemi
+# Created:     2-Mar-2025
+# Updated:     3-Mar-2025
+#-----------------------------------------------------------------------------
 print("Hello! I know it can be difficult to determine the grade you achieved. Let's calculate what grade you got together.")
 print()
 
-# Get user input
 score = int(input("Write your score out of 100 percent: "))
 print()
 
-# Determine grade level
 if score >= 90:
     print("\033[34mCongratulations! You have gotten a 4+. Keep up the good work!")
 elif 87 <= score <= 89:

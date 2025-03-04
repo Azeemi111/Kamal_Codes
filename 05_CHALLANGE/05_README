@@ -1,0 +1,31 @@
+Start
+print("Explaining to the user what the code will help them with")
+Store the day in a variable called day
+
+Print("Add extra print commands to space out the code")
+
+if the day is Monday
+print ("Start your week with a workout!")
+
+elif the day is Tuesday
+print("It's a great day to read a book!")
+
+elif the day is Wednesday
+print("Mid-week movie night!")
+
+elif the day is Thursday
+print("Try a new recipe!")
+
+elif the day is Friday
+print("Relax and enjoy the weekend!")
+
+elif the day is Saturday
+print("Go for a hike!")
+
+elif the day is Sunday
+print("Prepare for the week ahead with some self-care.")
+
+else
+print("Please enter a valid day of the week! For example 'Sunday'.")
+
+

@@ -1,0 +1,43 @@
+Start
+print("Explaining to the user what the code will help them with")
+Store the grade percentage in a variable called score
+Add extra print commands to space out the code
+
+if the users score is greater than or equal to 90
+print ("Congratulations! You have gotten a 4+. Keep up the good work!") in the colour blue
+
+elif the users score is greater than and equal to 87 and less than or equal to 89
+print ("Congratulations! You have achieved a level 4.") in the colour blue
+
+elif the users score is greater than and equal to 80 and less than or equal to 86
+print ("Congratulations! You have achieved a level 4-") in the colour green
+
+elif the users score is greater than and equal to 77 and less than or equal to 79
+print ("Congratulations! You have gotten a level 3+. Try achieving a level 4 next time!") in the colour green
+
+elif the users score is greater than and equal to 74 and less than or equal to 76
+print ("Good job! You have gotten a level 3. Try doing better next time") in the colour green
+
+elif the users score is greater than and equal to 70 and less than or equal to 73
+print ("Nice! You got a level 3-") in the colour green
+
+elif the users score is greater than and equal to 67 and less than or equal to 69
+print ("Unfortunately, you got a level 2+.") in the colour red
+
+elif the users score is greater than and equal to 64 and less than or equal to 66
+print ("Unfortunately, you got a level 2.") in the colour red
+
+elif the users score is greater than and equal to 64 and less than or equal to 66
+print ("Unfortunately, you got a level 2-.") in the colour red
+
+elif the users score is greater than and equal to 57 and less than or equal to 59
+print ("You got a level 1+. Practice more or else no more collage and university dreams for you!") in the colour red
+
+elif the users score is greater than and equal to 54 and less than or equal to 56
+print ("You got a level 1. Practice more or else no more collage and university dreams for you!") in the colour red
+
+elif the users score is greater than and equal to 57 and less than or equal to 59
+print ("You got a level 1-. Practice more or else no more collage and university dreams for you!") in the colour red
+
+Else
+print ("You scored below 50. Keep practicing and don't give up! or else no more collage and university dreams for you!") in the colour red

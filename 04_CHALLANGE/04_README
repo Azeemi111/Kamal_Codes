@@ -1,0 +1,12 @@
+Start
+print("Explain to the user what the code is for and executing")
+Storing the users age in a variable called age
+
+print("Adding extra prints to space out the code")
+
+If the users age is greater than or equal to 18
+print("You are able to vote!")
+
+else
+print("You're too young, go play outside!")
+

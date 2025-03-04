@@ -1,3 +1,10 @@
+#-----------------------------------------------------------------------------
+# Name:        Temperature Advice
+# Purpose:     Recommending clothing based off the current weather.
+# Author:      Kamal Azeemi
+# Created:     28-Feb-2025
+# Updated:     4-Mar-2025
+#-----------------------------------------------------------------------------
 print("Hey, the weather recently is causing many flues and colds due to random changes in temperature, to avoid this I will be advising you how to dress appropriate to the weather")
 print()
 print()
