@@ -5,7 +5,7 @@ Storing the number in a variable called number
 print("Adding extra prints to space out the code")
 
 if the number is divisible by two and leaves no remainder
-print("The number is even")
+print("The number is even") in the colour blue
 
 else
-print("The number you have inputted is odd")
+print("The number you have inputted is odd") in the colour red

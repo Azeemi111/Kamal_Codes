@@ -11,7 +11,7 @@ print()
 print()
 
 if day == "Monday" or day == "monday" or day =="MONDAY":
-    print("Start your week with a workout!")
+    print("\033[34mStart your week with a workout!")
 elif day == "Tuesday" or day == "tuesday" or day =="TUESDAY":
     print("\033[34mIt's a great day to read a book!")
 elif day == "Wednesday" or day == "wednesday" or day =="WEDNESDAY":

@@ -5,8 +5,8 @@ Storing the users age in a variable called age
 print("Adding extra prints to space out the code")
 
 If the users age is greater than or equal to 18
-print("You are able to vote!")
+print("You are able to vote!") in the colour blue
 
 else
-print("You're too young, go play outside!")
+print("You're too young, go play outside!") in the colour red
 

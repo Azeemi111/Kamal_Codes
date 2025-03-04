@@ -4,13 +4,13 @@ print(Adding extra prints to space out the code)
 Storing the temperature in a variable called temper
 
 if the temperature is less than or equal to 10
-print("It's cold outside. Wear a jacket!")
+print("It's cold outside. Wear a jacket!") in the colour blue
 
 elif the temperature is greater than or equal to 10 and less than or equal to 25
-print("t's a nice day. Wear short-sleeves!")
+print("t's a nice day. Wear short-sleeves!") in the colour green
 
 elif the temperature greater than or equal to 25
-print("It's hot outside. Stay cool!")
+print("It's hot outside. Stay cool!") in the colour red
 
 else:
 print("Make sure the user inputted the correct data by explaining")

@@ -10,10 +10,10 @@ elif the users score is greater than and equal to 87 and less than or equal to 8
 print ("Congratulations! You have achieved a level 4.") in the colour blue
 
 elif the users score is greater than and equal to 80 and less than or equal to 86
-print ("Congratulations! You have achieved a level 4-") in the colour green
+print ("Congratulations! You have achieved a level 4-") in the colour purple
 
 elif the users score is greater than and equal to 77 and less than or equal to 79
-print ("Congratulations! You have gotten a level 3+. Try achieving a level 4 next time!") in the colour green
+print ("Congratulations! You have gotten a level 3+. Try achieving a level 4 next time!") in the colour purple
 
 elif the users score is greater than and equal to 74 and less than or equal to 76
 print ("Good job! You have gotten a level 3. Try doing better next time") in the colour green
