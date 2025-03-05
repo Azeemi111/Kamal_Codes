@@ -1,6 +1,6 @@
 Start
 print("Explaining to the user what the code will help them with")
-Store the day in a variable called day
+store the day in a variable called day
 
 Print("Add extra print commands to space out the code")
 

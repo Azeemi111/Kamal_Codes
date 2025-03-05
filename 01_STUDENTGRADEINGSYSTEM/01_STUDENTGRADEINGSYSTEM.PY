@@ -6,12 +6,12 @@
 # Updated:     3-Mar-2025
 #-----------------------------------------------------------------------------
 print("Hello! I know it can be difficult to determine the grade you achieved. Let's calculate what grade you got together.")
-print()
+print() #Spacing out the code to make it look visually appealing
 
-score = int(input("Write your score out of 100 percent: "))
-print()
+score = int(input("Write your score out of 100 percent: ")) #Storeing users input by setting a variable
+print() #Spacing out the code to make it look visually appealing
 
-if score >= 90:
+if score >= 90: #Executing different possibilities based off the users input
     print("\033[34mCongratulations! You have gotten a 4+. Keep up the good work!")
 elif 87 <= score <= 89:
     print("\033[34mCongratulations! You have achieved a level 4.")
@@ -35,5 +35,5 @@ elif 54 <= score <= 56:
     print("\033[31mYou got a level 1. Practice more or else no more collage and university dreams for you!")
 elif 50 <= score <= 53:
     print("\033[31mYou got a level 1-. Practice more or else no more collage and university dreams for you!")
-else:
+else: #Setting a response if the user inputs a number different then the possibilities listed above
     print("\033[31mYou scored below 50. Keep practicing and don't give up! or else no more collage and university dreams for you!")
