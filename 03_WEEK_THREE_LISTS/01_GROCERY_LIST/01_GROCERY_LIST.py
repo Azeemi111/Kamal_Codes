@@ -6,7 +6,9 @@
 # Updated:     19-Mar-2025
 #-----------------------------------------------------------------------------
 print("\nThis program will list and add new items after one list is printed\n")
+#Create a variable for lists called grocery_lists
 grocery_list = ['apples', 'bread', 'milk', 'eggs']
+#Create a variable for lists called grocery_lists
 print("The original list",grocery_list)
-grocery_list = ['apples', 'bread', 'milk', 'eggs', 'cheese', 'tomatoes']
+grocery_list.extend(['cheese', 'tomatoes'])
 print("The new list is",grocery_list)
