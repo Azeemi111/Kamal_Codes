@@ -7,7 +7,7 @@ Remove specified items from a to-do list and print the updated and final lists.
 - **Author:** Kamal Azeemi 
 - **Created:** 22-Mar-2025
 - **Updated:** 23-Mar-2025
-- 
+
 ## Features
 - Creates a variable for the list called `todo_list` and inputs data into the list.
 - Removes specified items from the list using the `remove()` method.
