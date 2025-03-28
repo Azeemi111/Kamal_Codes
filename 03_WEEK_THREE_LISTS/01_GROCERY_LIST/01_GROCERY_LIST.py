@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
 # Name:        Grocery List
 # Purpose:     Create a list of groceries and then add new items to the list.
-# Author:      Kamal Azeemi
+# Author:      Kamal
 # Created:     18-Mar-2025
 # Updated:     19-Mar-2025
 #-----------------------------------------------------------------------------
