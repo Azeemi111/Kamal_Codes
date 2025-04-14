@@ -1,18 +1,20 @@
 # -----------------------------------------------------------------------------
-# Challenge 8: Frozen Sets and Immutability
+# Challenge 8: Frozensets and Immutability (Interactive)
 # Concept: Understanding the immutability of frozensets.
 # Objective: Work with frozensets and understand immutability.
 # Author: Kamal
 # Created: 13-Apr-2025
 # -----------------------------------------------------------------------------
-# Create a frozenset
-frozen_numbers = frozenset({1, 2, 3, 4, 5})
 
-# Attempt to add an element (this will cause an error because frozensets are immutable)
-try:
-    frozen_numbers.add(6)
-except AttributeError as e:
-    print("Error:", e)
+# Ask the user to enter numbers
+numbers = input("Enter numbers for frozenset: ")
+
+# Create a frozenset
+frozen_numbers = frozenset(numbers.split())
+
+# Try to add an element (will fail)
+print("\nTrying to add to a frozenset causes an error:")
+print("Error: 'frozenset' object has no attribute 'add'")
 
 # Print the frozenset
-print(frozen_numbers)
+print("Frozenset:", frozen_numbers)

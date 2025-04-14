@@ -1,18 +1,20 @@
 # -----------------------------------------------------------------------------
-# Challenge 5: Set Methods
+# Challenge 5: Set Methods (Interactive)
 # Concept: Using set methods like .copy(), .clear(), and .pop().
 # Objective: Demonstrate various set methods.
 # Author: Kamal
 # Created: 13-Apr-2025
 # -----------------------------------------------------------------------------
-# Create a set
-data = {10, 20, 30, 40, 50}
+
+# Create the set
+data_input = input("Enter numbers for your set (e.g. 10 20 30 40 50): ")
+data = set(int(num) for num in data_input.split())
 
 # Copy the set
 data_copy = data.copy()
-print("Copy:", data_copy)
+print("\nCopy:", data_copy)
 
-# Pop a random element (removes and returns an arbitrary item)
+# Pop an element
 data.pop()
 print("After pop:", data)
 

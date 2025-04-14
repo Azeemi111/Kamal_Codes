@@ -5,14 +5,18 @@
 # Author: Kamal
 # Created: 13-Apr-2025
 # -----------------------------------------------------------------------------
-# Create a set of letters
-letters = {'a', 'b', 'c'}
 
-# Add multiple elements using .update()
-letters.update(['d', 'e', 'f'])
+# Create the initial set
+initial_input = input("Enter some letters separated by spaces (e.g. a b c): ")
+letters = set(initial_input.split())
 
-# Remove 'b' using .discard()
-letters.discard('b')
+# Add more letters
+more_input = input("Enter more letters to add (e.g. d e f): ")
+letters.update(more_input.split())
+
+# Remove a letter
+to_discard = input("Enter a letter to discard: ").strip()
+letters.discard(to_discard)
 
 # Print the updated set
-print(letters)
+print("\nUpdated letters set:", letters)
