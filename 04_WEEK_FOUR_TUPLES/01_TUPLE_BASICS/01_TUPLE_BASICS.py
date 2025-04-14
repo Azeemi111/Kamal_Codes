@@ -1,9 +1,3 @@
-#-----------------------------------------------------------------------------
-# Name:        TUPLE BASICS
-# Purpose:     Print and access different sections of a tuple
-# Author:      Kamal
-# Created:     24-Mar-2025
-#-----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 # Name:        TUPLE BASICS
 # Purpose:     Create a tuple with 5 different elements and access various parts of it

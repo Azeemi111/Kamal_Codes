@@ -4,13 +4,6 @@
 # Author:      Kamal
 # Created:     24-Mar-2025
 # -----------------------------------------------------------------------------
-
-# -----------------------------------------------------------------------------
-# Name:        TUPLE OPERATIONS & COUNT
-# Purpose:     Count the occurrences of a fruit in a tuple with repeated values
-# Author:      Kamal Azeemi
-# Created:     24-Mar-2025
-# -----------------------------------------------------------------------------
 # Create a tuple with repeated values
 fruits_tuple = ("apple", "banana", "apple", "cherry", "banana", "apple")
 
