@@ -1,4 +1,4 @@
-# LINE FOLLOWING ROBOT WITH ERROR SMOOTHING
+# LINE FOLLOWING ROBOT
 
 ## Purpose
 Use two IR sensors and proportional control with error averaging to follow a black line smoothly using two DC motors.
@@ -36,7 +36,7 @@ Use two IR sensors and proportional control with error averaging to follow a bla
 1. Connect the components as per the defined pins in the code.
 2. Open Arduino IDE and upload the sketch to the board.
 3. Open Serial Monitor at 9600 baud to observe real-time feedback.
-4. Place the robot on a black electrical tape line and observe behavior.
+4. Place the robot on a black line and observe behavior.
 
 ### TO RUN:
 ```bash
